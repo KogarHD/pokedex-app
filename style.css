@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f8ff;
+}
+
+h1 {
+  color: #ff0000;
+}
+
+#search {
+  padding: 8px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+#pokemon-list {
+  list-style: none;
+  padding: 0;
+}
+
+#pokemon-list li {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
